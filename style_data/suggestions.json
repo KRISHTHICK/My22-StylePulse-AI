@@ -1,0 +1,7 @@
+{
+  "casual": ["Blue jeans", "White tee", "Sneakers"],
+  "formal": ["Blazer", "Oxford shirt", "Leather shoes"],
+  "sporty": ["Tracksuit", "Running shoes", "Fitness band"],
+  "party": ["Sequin dress", "Heels", "Clutch bag"],
+  "traditional": ["Kurta", "Churidaar", "Jutti"]
+}
