@@ -1,0 +1,15 @@
+streamlit
+torch
+torchvision
+transformers
+Pillow
+matplotlib
+fpdf
+
+#python -m venv venv
+#venv\Scripts\activate  # for Windows
+
+#pip install -r requirements.txt
+
+#streamlit run app.py
+
